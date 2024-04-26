@@ -1,0 +1,14 @@
+import calculator
+a=5
+b=10
+print(calculator.add(a, b))
+print(calculator.subtract(a,b))
+print(calculator.devision(a, b))
+print(calculator.multiplication(a, b))
+from calculator import add,subtarct,devision multiplication
+a=5
+b=10
+print(add(a, b))
+print(subtract(a,b))
+print(devision(a, b))
+print(multiplication(a, b))
